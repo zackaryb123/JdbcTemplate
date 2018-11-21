@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="SpringAssignment3:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SpringAssignment3_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$USER_HOME$/Desktop/jar_files/jstl-1.2.jar" />
+        <element id="archive" name="SpringAssignment3.jar">
+          <element id="module-output" name="SpringAssignment3" />
+        </element>
+        <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+        <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+        <element id="library" level="project" name="Maven: javax.servlet:servlet-api:3.0-alpha-1" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-context:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-core:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-web:3.1.2.RELEASE" />
+        <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.1.2.RELEASE" />
+        <element id="file-copy" path="$USER_HOME$/Desktop/jar_files/ojdbc6.jar" />
+        <element id="file-copy" path="$USER_HOME$/Desktop/jar_files/slf4j-api-1.6.1.jar" />
+      </element>
+      <element id="javaee-facet-resources" facet="SpringAssignment3/web/Web" />
+    </root>
+  </artifact>
+</component>

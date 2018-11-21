@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Java:ear exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Java_ear_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$USER_HOME$/Desktop/jar_files/jstl-1.2.jar" />
+      </element>
+      <element id="javaee-facet-resources" facet="SpringAssignment3/web/Web" />
+    </root>
+  </artifact>
+</component>
